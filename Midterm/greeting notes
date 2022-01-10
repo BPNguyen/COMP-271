@@ -1,0 +1,28 @@
+Example output:
+
+*SIMULATION STARTS*
+(Similar to CarWash)
+
+Leo says hello to Brian
+
+Brian says hello to Jack
+
+* No response from Jack *
+
+ERROR: Jack's mic is muted
+
+Jack unmutes mic
+
+Jack apologizes for mistake
+
+Jack says hello to JJ
+
+JJ says hello to ...
+
+... Larissa (last person) says hello to Leo
+
+*SIMULATION ENDS*
+(Simlation always ends in a success with errors along the way, but errors are mitigated)
+
+Use of cases?
+Increase timestamps of errors?

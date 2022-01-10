@@ -1,0 +1,8 @@
+Not all text files have items for all letters of alphabet
+Up to programmer discretion on how to handle that
+
+Maybe combine two items in respective file with hyphen?
+E.g. First name = "Isaac"
+    File doesn't have item starting with an "I"
+    Randomly choose two items in file and combine with hyphen
+    Output: "Lemongrass-Orange"
